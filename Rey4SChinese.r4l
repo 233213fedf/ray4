@@ -1,0 +1,36 @@
+[Ray4]
+; General
+Name="SChinese"
+Author="233213fedf"
+AuthorEmail="z233213fedf@163.com"
+Font="微软雅黑"
+FontSize="9"
+
+; File Menu
+FileMenu=" 文件(&F) "
+Open="打开..."
+Exit="退出(&X)"
+
+; Special Menu
+SpecialMenu=" 其他(&S) "
+About="关于Ray4..."
+
+; List
+nameString="名称"
+kindString="文件类型"
+kwString="关键词"
+downString="下载地址"
+
+; Comment
+NameLabel="名称："
+kwLabel="标签："
+DetailLine1="文件类型："
+DetailLine2="创建日期："
+FreeRes="免费资源"
+FreeRes2="付费资源"
+
+; Download
+DLLabel="下载地址"
+DLCopyButton="复制"
+MsgBox_AlreadyCopy="已复制"
+

@@ -1,0 +1,36 @@
+[Ray4]
+; General
+Name="English"
+Author="233213fedf"
+AuthorEmail="z233213fedf@163.com"
+Font="Arial"
+FontSize="9"
+
+; File Menu
+FileMenu="&File"
+Open="&Open..."
+Exit="E&xit"
+
+; Special Menu
+SpecialMenu="&Special"
+About="About Ray4..."
+
+; List
+nameString="Name"
+kindString="Kind"
+kwString="Keyword"
+downString="Download"
+
+; Comment
+NameLabel="Name: "
+kwLabel="Keyword: "
+DetailLine1="Kind: "
+DetailLine2="Date: "
+FreeRes="Free"
+FreeRes2="Need to pay"
+
+; Download
+DLLabel="Download"
+DLCopyButton="Copy"
+MsgBox_Alreadycopy="Text has copied to the clipboard."
+
