@@ -2,7 +2,7 @@
 
 ---
 
-Current version: 1.2-b20190206
+Current version: 1.3
 
 ---
 A JSON Tool for "Mingtian Huixue", or many websites that built on Rays.
