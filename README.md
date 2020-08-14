@@ -1,5 +1,7 @@
 # ray4
 
+** Note: Unreleased pbeta version has deleted from my computer so... **
+
 ![](./ray4_ui.png)
 
 - Current version: 1.3
